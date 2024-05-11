@@ -1,11 +1,11 @@
-# CRYPTO-APP
+# CRYPTOCURRENCY TRACKER
 AIM:
 
      To develop App which can help us to know the price of the crypto currency statistics, with low error rate and a high precision of accuracy.
 
 DESCRIPTION:
      
-     Crypto App is a live cryptocurrency tracker web-based project in which it has 2 sections, one for trending currency in the market and the other for displaying all the available cryptocurrencies in the market. The model will not tell the future, but it might forecast the live trending currency.
+     Cryptocorrency Tracker is a live cryptocurrency tracker web-based project in which it has 2 sections, one for trending currency in the market and the other for displaying all the available cryptocurrencies in the market. The model will not tell the future, but it might forecast the live trending currency.
 
 FUNCTIONALITIES:
 
