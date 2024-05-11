@@ -1,7 +1,7 @@
 # CRYPTOCURRENCY TRACKER
 AIM:
 
-     To develop App which can help us to know the price of the crypto currency statistics, with low error rate and a high precision of accuracy.
+     To develop a tracker which can help us to know the price of the crypto currency statistics, with low error rate and a high precision of accuracy.
 
 DESCRIPTION:
      
