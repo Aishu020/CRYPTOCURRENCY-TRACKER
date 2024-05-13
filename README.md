@@ -40,3 +40,9 @@ COMPONENTS:
     •	Moment – Parse, validate, manipulate, and display dates and times in JavaScript.
     
     •	yarn-information to check if it needs to update anything it compares depency of current things.
+
+HOW TO RUN?
+
+    •	npm install
+
+    •	yarn dev [or] yarn add vite --dev
