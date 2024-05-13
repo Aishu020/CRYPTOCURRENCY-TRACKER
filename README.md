@@ -45,4 +45,15 @@ HOW TO RUN?
 
     •	npm install
 
-    •	yarn dev [or] yarn add vite --dev
+    •	npm run build
+
+SCREENSHOT!
+
+![image](https://github.com/Aishu020/CRYPTOCURRENCY-TRACKER/assets/85669685/7682d88f-fb92-4842-a015-a4189a502f30)
+
+![image](https://github.com/Aishu020/CRYPTOCURRENCY-TRACKER/assets/85669685/418bb00e-34f0-45c3-ba8f-e9773f38c56f)
+
+![image](https://github.com/Aishu020/CRYPTOCURRENCY-TRACKER/assets/85669685/534aaaf2-50ca-4f1e-af95-d5c89f24febd)
+
+
+
